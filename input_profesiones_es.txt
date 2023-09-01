@@ -1,0 +1,46 @@
+dentista
+logopeda
+contable
+electricista
+comercial
+albañil
+maquinista
+piloto
+modelo
+fisioterapeuta
+conserje
+dibujante
+agente
+poeta
+militar
+mercader
+auxiliar
+cónsul
+portavoz
+chef
+capitán
+juez
+concejal
+cantante
+guía
+canguro
+recepcionista
+deportista
+policía
+soldado
+astronauta
+cura
+periodista
+taxista
+tenista
+agente de viaje
+estilista
+florista
+político
+psiquiatra
+vigilante de seguridad
+socorrista
+sastre
+economista
+psicoanalista
+auxiliar de enfermería

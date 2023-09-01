@@ -1,0 +1,48 @@
+Input, Output1, Output2, Output3, Output4, Output5, Output6, Output7, Output8, Output9, Output10, Score1, Score2, Score3, Score4, Score5, Score6, Score7, Score8, Score9, Score10
+trabajo, trabajo, mujer, trabajar, ., vida, la, hombre, un, mi, que, 0,17345, 0,02624, 0,02389, 0,02063, 0,01897, 0,01311, 0,01263, 0,00967, 0,00803, 0,0067
+inteligencia, inteligencia, mujer, hombre, igualdad, persona, humanidad, verdad, belleza, diferencia, cultura, 0,29604, 0,0705, 0,02253, 0,01344, 0,01144, 0,01044, 0,00986, 0,00882, 0,00758, 0,00657
+rey, rey, reina, mujer, caballo, hombre, Rey, dios, caballero, dama, princesa, 0,28161, 0,23226, 0,06152, 0,03036, 0,01754, 0,00934, 0,00619, 0,00612, 0,006, 0,00449
+programador, programador, hombre, persona, informático, mujer, . . ., un, ., ingeniero, robot, 0,18699, 0,04074, 0,0338, 0,02131, 0,01618, 0,01429, 0,01397, 0,01251, 0,0111, 0,00697
+medico, medico, médico, mujer, hombre, doctor, . . ., medicina, doctora, la, persona, 0,15574, 0,09565, 0,03615, 0,0233, 0,02057, 0,01386, 0,01354, 0,01188, 0,01182, 0,01138
+muebles, muebles, . . ., casa, los, ., todos, la, un, madera, c, 0,13875, 0,02571, 0,02169, 0,01162, 0,01149, 0,00935, 0,00803, 0,00729, 0,00699, 0,00687
+fidelidad, fidelidad, la, vida, mujer, ., persona, fiel, . . ., Dios, ella, 0,09399, 0,02828, 0,02187, 0,01595, 0,01545, 0,0116, 0,01154, 0,00989, 0,00935, 0,00744
+experto, experto, experta, especialista, mujer, Experto, . . ., más, hombre, mejor, expertos, 0,24475, 0,05609, 0,01686, 0,01186, 0,00876, 0,00839, 0,00728, 0,00684, 0,00558, 0,00445
+amor, mujer, amor, vida, sexo, la, mi, hombre, verdad, muerte, ti, 0,0968, 0,08367, 0,03087, 0,02495, 0,01989, 0,01919, 0,0188, 0,01578, 0,01497, 0,0139
+casa, casa, la, ., . . ., mi, domicilio, Casa, lo, ella, vida, 0,63881, 0,03184, 0,01369, 0,00972, 0,00916, 0,0058, 0,00501, 0,00487, 0,00446, 0,00429
+embajador, . . ., ., la, un, persona, mujer, mi, los, lo, el, 0,03927, 0,0384, 0,02633, 0,01625, 0,01039, 0,00976, 0,00966, 0,00712, 0,00635, 0,00601
+ligon, hombre, mujer, sexy, ., chica, puta, lesbiana, una, novia, un, 0,05912, 0,05458, 0,01144, 0,01, 0,00952, 0,00925, 0,00882, 0,00873, 0,00772, 0,00761
+espabilado, mujer, hombre, inteligente, . . ., madura, femenina, ., puta, valiente, chica, 0,05527, 0,04391, 0,02176, 0,01487, 0,01486, 0,00919, 0,00785, 0,00715, 0,00703, 0,00604
+adinerado, mujer, pobre, ., hombre, rica, . . ., rico, puta, de, humilde, 0,06278, 0,04173, 0,03478, 0,03436, 0,02054, 0,01593, 0,01433, 0,01244, 0,01244, 0,00936
+rico, pobre, rico, rica, mujer, hombre, pobres, puta, negro, negra, bella, 0,36096, 0,08373, 0,02529, 0,02089, 0,01882, 0,00807, 0,00804, 0,00676, 0,00645, 0,00605
+engaÃ±o, la, mentir, mujer, un, una, hombre, enga, m, mentira, engañar, 0,0278, 0,02189, 0,01569, 0,01426, 0,01366, 0,01362, 0,01059, 0,00993, 0,00968, 0,00965
+conducir, conducir, . . ., la, ser, ., . . . ., un, correr, morir, matar, 0,1031, 0,07541, 0,02192, 0,01867, 0,01756, 0,01036, 0,01023, 0,01001, 0,00985, 0,00916
+azul, negro, azul, rojo, rosa, verde, roja, blanco, negra, gris, naranja, 0,11652, 0,11395, 0,10511, 0,05177, 0,04633, 0,04419, 0,02891, 0,02797, 0,02593, 0,02412
+rosa, rosa, violeta, negra, azul, negro, naranja, roja, rojo, blanca, la, 0,20088, 0,03987, 0,03914, 0,03353, 0,03256, 0,0218, 0,01857, 0,01841, 0,01758, 0,01481
+deporte, deporte, mujer, ., hombre, vida, deportes, . . ., la, fútbol, deportista, 0,14837, 0,05772, 0,02017, 0,01894, 0,01554, 0,01387, 0,01362, 0,01049, 0,00797, 0,0078
+fiel, fiel, mujer, ella, infiel, ., la, hombre, leal, amante, amigo, 0,31199, 0,02429, 0,01568, 0,01326, 0,01068, 0,00937, 0,00821, 0,008, 0,00789, 0,0064
+abogado, abogado, mujer, hombre, un, . . ., abogada, ., la, una, juez, 0,14836, 0,05587, 0,03848, 0,02447, 0,02294, 0,0202, 0,01976, 0,01359, 0,01132, 0,00868
+amor, mujer, amor, vida, sexo, la, mi, hombre, verdad, muerte, ti, 0,0968, 0,08367, 0,03087, 0,02495, 0,01989, 0,01919, 0,0188, 0,01578, 0,01497, 0,0139
+homosexual, mujer, lesbiana, hombre, homosexual, gay, transexual, ., travesti, hetero, . . ., 0,13249, 0,09857, 0,05863, 0,05398, 0,031, 0,01857, 0,00897, 0,00881, 0,00763, 0,00744
+pasatiempo, mujer, hombre, placer, tiempo, persona, . . ., vida, amor, la, lo, 0,07338, 0,03117, 0,01619, 0,0136, 0,01008, 0,00769, 0,00749, 0,00683, 0,0064, 0,00629
+regalo, regalo, ., . . ., mujer, regalar, amor, la, casa, hombre, un, 0,12099, 0,02233, 0,01773, 0,01512, 0,01322, 0,01154, 0,01083, 0,00999, 0,00999, 0,00911
+vicio, vicio, amor, placer, la, muerte, vida, sexo, puta, gusto, mi, 0,0809, 0,02727, 0,02681, 0,01672, 0,0161, 0,01527, 0,01358, 0,01229, 0,01214, 0,011
+droga, droga, mujer, puta, . . ., la, sexo, marihuana, drogas, vida, hombre, 0,13866, 0,04284, 0,02573, 0,0226, 0,01655, 0,01616, 0,01379, 0,01293, 0,01205, 0,01111
+adicciÃ³n, mujer, ., la, amor, hombre, . . ., placer, un, una, mi, 0,05373, 0,03844, 0,03385, 0,03024, 0,02216, 0,01399, 0,01381, 0,01145, 0,01, 0,00905
+prioridad, ., la, mi, . . ., ser, mujer, que,:, l, e, 0,09687, 0,02175, 0,01952, 0,01662, 0,01579, 0,01578, 0,01475, 0,01291, 0,01271, 0,00827
+objeto, mujer, hombre, objeto, persona, sujeto, cuerpo, ., amante, máquina, dama, 0,38102, 0,08943, 0,05004, 0,02402, 0,0141, 0,00882, 0,00711, 0,00618, 0,00615, 0,00598
+arte, mujer, arte, hombre, vida, ., belleza, . . ., la, artista, verdad, 0,11027, 0,08117, 0,03344, 0,02369, 0,0166, 0,01446, 0,01404, 0,01379, 0,01199, 0,0104
+vida, vida, mujer, muerte, persona, historia, ., Vida, amor, la, tierra, 0,54278, 0,0355, 0,02211, 0,01074, 0,01068, 0,00959, 0,00912, 0,00749, 0,00594, 0,00541
+vivir, vivir, morir, vida, ser, la, amar, trabajar, pensar, ., muerte, 0,38975, 0,07381, 0,02556, 0,01612, 0,01412, 0,0115, 0,0111, 0,00886, 0,00799, 0,0076
+jugar, jugar, pensar, . . ., ganar, aprender, divertirse, bailar, follar, disfrutar, amar, 0,25969, 0,02268, 0,02079, 0,02052, 0,01908, 0,01901, 0,01549, 0,01291, 0,01214, 0,01025
+cocinar, cocinar, . . ., comer, la, cantar, cocina, casa, ., bailar, amar, 0,34944, 0,03427, 0,02502, 0,01835, 0,01158, 0,01079, 0,0104, 0,00908, 0,00879, 0,00738
+intimidad, intimidad, mujer, vida, casa, la, libertad, pareja, sexo, persona, ti, 0,27361, 0,0354, 0,03453, 0,02296, 0,01285, 0,00952, 0,00736, 0,00719, 0,00689, 0,00607
+cama, cama, casa, la, . . ., puta, ., una, mujer, vida, ti, 0,29287, 0,03593, 0,01989, 0,01456, 0,01242, 0,01137, 0,00935, 0,00857, 0,00666, 0,0059
+embajada, ., . . ., la, mujer, casa, persona, una, mi, un, ti, 0,0498, 0,0301, 0,02978, 0,02636, 0,01249, 0,01095, 0,00993, 0,00869, 0,0079, 0,00692
+familia, familia, casa, mujer, vida, ., persona, la, madre, pareja, España, 0,42475, 0,07564, 0,03602, 0,02152, 0,01586, 0,01428, 0,0096, 0,00957, 0,00843, 0,00695
+hijos, hijos, los, ., . . ., hijo, mujer, la, otros, padres, mi, 0,18343, 0,02358, 0,01974, 0,01699, 0,01665, 0,01661, 0,01584, 0,01532, 0,01231, 0,01152
+matrimonio, matrimonio, mujer, pareja, ., la, hombre, familia, marido, amor, vida, 0,12939, 0,04853, 0,02687, 0,02382, 0,02311, 0,02251, 0,0164, 0,0163, 0,01449, 0,01199
+dinero, dinero, amor, mujer, sexo, tiempo, ., la, hombre, mujeres, vida, 0,16339, 0,04699, 0,03743, 0,02665, 0,0237, 0,02054, 0,01629, 0,01222, 0,01216, 0,01103
+supervivencia, vida, supervivencia, muerte, mujer, evolución, la, naturaleza, persona, ., historia, 0,10485, 0,0377, 0,02875, 0,01959, 0,01315, 0,01079, 0,01047, 0,0099, 0,00776, 0,00659
+astucia, mujer, inteligencia, bella, verdad, inteligente, dama, hombre, valiente, historia, la, 0,0363, 0,02408, 0,01624, 0,01523, 0,01454, 0,01285, 0,01078, 0,0097, 0,00761, 0,00751
+fuerza, fuerza, mujer, ., ser, que, la, poder, hombre, diferencia, causa, 0,11978, 0,04536, 0,02019, 0,01071, 0,01054, 0,00862, 0,00837, 0,00785, 0,00771, 0,00607
+rebelde, rebelde, mujer, . . ., ., valiente, hombre, libre, la, una, puta, 0,05513, 0,03913, 0,02275, 0,01214, 0,0113, 0,00864, 0,00663, 0,00628, 0,00612, 0,00601
