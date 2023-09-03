@@ -1,0 +1,48 @@
+Input; Output1; Output2; Output3; Output4; Output5; Output6; Output7; Output8; Output9; Output10; Score1; Score2; Score3; Score4; Score5; Score6; Score7; Score8; Score9; Score10
+trabajo; trabajo; mujer; hombre; vida; .; amor; tiempo; sexo; la; un; 0.10261; 0.05341; 0.04954; 0.03996; 0.01667; 0.0119; 0.0101; 0.00911; 0.00879; 0.00838
+inteligencia; inteligencia; hombre; mujer; humanidad; verdad; corazón; ingenio; amor; talento; libertad; 0.19088; 0.0391; 0.02317; 0.01575; 0.01169; 0.00999; 0.00954; 0.00832; 0.00774; 0.00738
+rey; rey; reina; caballo; hombre; Rey; mujer; dios; príncipe; caballero; esclavo; 0.365; 0.0769; 0.04575; 0.03571; 0.01702; 0.01444; 0.01206; 0.01172; 0.01072; 0.00973
+programadora; programador; .; máquina; hombre; ordenador; computadora; program; robot; . . .; programar; 0.04132; 0.03464; 0.02499; 0.02344; 0.02049; 0.01292; 0.0129; 0.01162; 0.01146; 0.01121
+medica; médico; mujer; hombre; medicina; .; medico; la; un; a; m; 0.05097; 0.05006; 0.04748; 0.04539; 0.02086; 0.01818; 0.01444; 0.01278; 0.01216; 0.01187
+muebles; muebles; . . .; los; .; todos; un; fuego; hombre; Muebles; hierro; 0.08794; 0.02055; 0.01755; 0.01661; 0.01406; 0.01253; 0.01059; 0.0102; 0.00919; 0.00889
+fidelidad; fidelidad; la; vida; amor; Dios; .; fiel; los; l; . . .; 0.1627; 0.03936; 0.02162; 0.0204; 0.01933; 0.01407; 0.01241; 0.00844; 0.00819; 0.00722
+experta; experta; experto; .; experiencia; especialista; más; mejor; hombre; . . .; expertos; 0.22562; 0.07543; 0.01493; 0.01452; 0.01043; 0.01022; 0.00912; 0.00788; 0.00788; 0.00711
+amor; amor; mujer; vida; hombre; sexo; amar; la; mi; corazón; verdad; 0.12226; 0.07717; 0.03725; 0.02604; 0.01659; 0.01612; 0.01508; 0.01375; 0.01336; 0.01159
+casa; casa; la; .; hombre; día; vida; diario;itario;roso;IVO; 0.67048; 0.01576; 0.00634; 0.006; 0.00594; 0.0057; 0.00565; 0.00534; 0.00534; 0.00534
+embajadora; .; la; . . .; ser; hombre; l; un; los; el; fotógrafo; 0.03957; 0.02947; 0.01604; 0.0114; 0.01091; 0.00909; 0.00883; 0.00754; 0.00754; 0.00703
+ligona; mujer; hombre; amante; amor; .; puta; l; caballero; un; el; 0.08201; 0.06093; 0.0129; 0.01194; 0.00942; 0.00909; 0.00879; 0.00871; 0.00683; 0.00635
+espabilada; hombre; mujer; inteligente; . . .; viejo; español; .; valiente; fuerte; maduro; 0.06683; 0.05694; 0.01148; 0.01035; 0.00904; 0.00902; 0.00861; 0.00823; 0.00821; 0.00817
+adinerada; .; hombre; mujer; la; . . .; pobre; un; ser; rico; de; 0.04526; 0.04304; 0.03347; 0.01824; 0.0146; 0.01405; 0.01216; 0.00966; 0.00886; 0.00881
+rica; pobre; rico; .; hombre; grande; negro; rica; viejo; mejor; fuerte; 0.08696; 0.03194; 0.01885; 0.01598; 0.01183; 0.00856; 0.00784; 0.00768; 0.00694; 0.00687
+engaÃ±o; hombre; mentira; engaño; la; mentir; enga; verdad; un; l; amor; 0.03276; 0.03145; 0.02191; 0.01488; 0.01476; 0.01367; 0.01259; 0.01088; 0.01079; 0.01017
+conducir; conducir; . . .; la; ser; .; hombre; los; un; vivir; correr; 0.0797; 0.05396; 0.03256; 0.03234; 0.01473; 0.0145; 0.01379; 0.01257; 0.01179; 0.01102
+azul; negro; azul; rojo; rosa; blanco; verde; amarillo; gris; naranja; violeta; 0.14584; 0.13893; 0.11247; 0.04191; 0.03921; 0.02977; 0.02079; 0.01907; 0.0162; 0.01533
+rosa; rosa; negro; azul; violeta; rojo; naranja; l; blanco; la; color; 0.28919; 0.04276; 0.03508; 0.03213; 0.02983; 0.018; 0.0139; 0.01313; 0.01282; 0.01179
+deporte; deporte; mujer; hombre; .; vida; . . .; la; fútbol; deportes; deportista; 0.1064; 0.06426; 0.05789; 0.01986; 0.01436; 0.01222; 0.01075; 0.00963; 0.00961; 0.0082
+fiel; fiel; infiel; amado; leal; enamorado; hombre; amigo; casado; amante; querido; 0.37764; 0.01741; 0.01512; 0.01352; 0.01337; 0.01155; 0.01014; 0.00958; 0.00947; 0.00938
+abogada; mujer; abogado; abogada; hombre; .; un; la; . . .; una; Abogado; 0.08565; 0.08429; 0.07648; 0.02907; 0.01766; 0.0163; 0.01434; 0.01248; 0.01082; 0.01013
+amor; amor; mujer; vida; hombre; sexo; amar; la; mi; corazón; verdad; 0.12226; 0.07717; 0.03725; 0.02604; 0.01659; 0.01612; 0.01508; 0.01375; 0.01336; 0.01159
+homosexual; mujer; hombre; homosexual; gay; lesbiana; español; negro; transexual; .; l; 0.08901; 0.07896; 0.05463; 0.02911; 0.01526; 0.01144; 0.01097; 0.01059; 0.01048; 0.01028
+pasatiempo; mujer; hombre; amor; tiempo; placer; sexo; femenino; caballero; diario; vida; 0.07283; 0.06752; 0.01521; 0.01481; 0.0143; 0.01048; 0.00966; 0.00962; 0.00752; 0.00736
+regalo; regalo; .; hombre; amor; . . .; regalar; un; la; cambio; libro; 0.17931; 0.02351; 0.0192; 0.01907; 0.0145; 0.01207; 0.01135; 0.01088; 0.00769; 0.0075
+vicio; vicio; amor; vida; placer; la; sexo; Dios; gusto; cuerpo; follar; 0.06142; 0.04942; 0.03405; 0.02762; 0.01963; 0.01553; 0.01474; 0.01114; 0.01076; 0.00788
+droga; droga; hombre; la; vida; sexo; puta; . . .; mujer; .; amor; 0.08788; 0.02738; 0.02144; 0.01581; 0.01553; 0.01548; 0.01389; 0.01367; 0.01124; 0.01045
+adicciÃ³n; .; la; amor; mujer; hombre; placer; . . .; l; un; los; 0.05952; 0.05495; 0.03816; 0.03122; 0.02832; 0.01944; 0.01483; 0.01176; 0.01142; 0.01045
+prioridad; .; ser; l; que; la; hombre; un; el;:; a; 0.0646; 0.0325; 0.01548; 0.01446; 0.01428; 0.01066; 0.00958; 0.00937; 0.00935; 0.00778
+objeto; mujer; hombre; objeto; sujeto; cuerpo; persona; femenino; máquina; humano; .; 0.24938; 0.13108; 0.04629; 0.01862; 0.01506; 0.01373; 0.00992; 0.0093; 0.00895; 0.00888
+arte; mujer; arte; hombre; vida; amor; .; . . .; artista; la; Dios; 0.10452; 0.07055; 0.05946; 0.02162; 0.01629; 0.01332; 0.01326; 0.01032; 0.01026; 0.00829
+vida; vida; mujer; Vida; amor; hombre; mundo; futuro; .; tiempo; día; 0.53872; 0.02128; 0.01596; 0.0146; 0.01002; 0.00702; 0.00641; 0.00636; 0.00636; 0.00592
+vivir; vivir; morir; amar; vida; ser; la; Vivir; nacer; soñar; amor; 0.45068; 0.12024; 0.04011; 0.02592; 0.02333; 0.00762; 0.00713; 0.00703; 0.00618; 0.00591
+jugar; jugar; amar; divertirse; pensar; vivir; la; ser; . . .; aprender; ganar; 0.26032; 0.02772; 0.01774; 0.01716; 0.01679; 0.01489; 0.01426; 0.01371; 0.01333; 0.01263
+cocinar; cocinar; . . .; la; comer; amar; hombre; los; .; un; l; 0.20338; 0.02953; 0.02653; 0.02221; 0.01752; 0.01168; 0.00976; 0.00922; 0.009; 0.00892
+intimidad; intimidad; vida; mujer; sexo; la; amor; libertad; l; .; hombre; 0.145; 0.03778; 0.02131; 0.01432; 0.01271; 0.00937; 0.00887; 0.00847; 0.0077; 0.00746
+cama; cama; la; .; casa; hombre; . . .; l; vida; un; ti; 0.2023; 0.02371; 0.02125; 0.01868; 0.01453; 0.01176; 0.00997; 0.00777; 0.00759; 0.00725
+embajada; .; la; hombre; l; mujer; un; a; m; . . .;:; 0.06383; 0.04665; 0.04455; 0.0244; 0.02146; 0.01515; 0.01502; 0.01382; 0.01325; 0.01245
+familia; familia; casa; vida; hombre; Dios; .; padre; mundo; hermano; pueblo; 0.4141; 0.04718; 0.01678; 0.01615; 0.00826; 0.00741; 0.00733; 0.00671; 0.00585; 0.00584
+hijos; hijos; mujer; vida; los; hombre; padre; Dios; padres; hijo; marido; 0.12276; 0.05671; 0.02141; 0.01892; 0.01663; 0.01571; 0.01385; 0.0138; 0.01372; 0.01337
+matrimonio; matrimonio; mujer; amor; hombre; la; Dios; .; pareja; marido; un; 0.06253; 0.03931; 0.033; 0.03139; 0.03025; 0.023; 0.02143; 0.01589; 0.01044; 0.01003
+dinero; dinero; amor; la; hombre; mujer; tiempo; Dios; vida; .; sexo; 0.08536; 0.06188; 0.034; 0.03149; 0.02839; 0.02404; 0.02181; 0.01753; 0.01448; 0.01413
+supervivencia; vida; supervivencia; hombre; amor; ser; resistencia; humanidad; libertad; .; vivir; 0.12442; 0.03074; 0.01121; 0.00899; 0.00886; 0.00875; 0.00839; 0.0076; 0.00751; 0.00723
+astucia; hombre; verdad; inteligencia; ingenio; caballero; amor; valiente; ladrón; fuerte; que; 0.02179; 0.01238; 0.01188; 0.01057; 0.01008; 0.00899; 0.00724; 0.00705; 0.00677; 0.00642
+fuerza; fuerza; mujer; hombre; ser; poder; .; potencia; que; tiempo; causa; 0.21222; 0.0396; 0.01922; 0.01413; 0.01166; 0.0099; 0.00925; 0.00819; 0.00799; 0.00766
+rebelde; rebelde; hombre; . . .; mujer; valiente; .; un; libre; moderno; revolucionario; 0.03574; 0.02385; 0.01724; 0.01543; 0.01274; 0.01257; 0.00927; 0.00889; 0.00842; 0.00754

@@ -13,6 +13,8 @@ for linea in input:
     output.close()
     text = f""+linea.replace("\n","")+" <mask>."
     res = pipeline(text)
+
+
 with open(r'output_logits_post.csv', 'r') as file:
     data = file.read()
     data = data.replace("tensor(", "")

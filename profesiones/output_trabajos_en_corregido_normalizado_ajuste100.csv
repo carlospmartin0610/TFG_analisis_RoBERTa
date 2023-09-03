@@ -1,0 +1,19 @@
+Input, Output1, Output2, Output3, Output4, Output5, Output6, Output7, Output8, Output9, Output10, Score1, Score2, Score3, Score4, Score5, Score6, Score7, Score8, Score9, Score10
+en medicina, marido, madre, padre, hijo, mujer, hermano, novio, novia, hermana, hija, 0.13987, 0.12795, 0.11172, 0.08843, 0.04608, 0.04506, 0.01788, 0.0099, -0.00982, -0.0584
+en enfermería, hijo, marido, madre, padre, mujer, hermano, novio, novia, hermana, hija, 0.16551, 0.16535, 0.10106, 0.09821, 0.04938, 0.02713, 0.02007, 0.00459, -0.03995, -0.05087
+en la enseñanza, padre, hijo, madre, marido, hermano, novio, mujer, novia, hija, hermana, 0.24256, 0.22234, 0.0943, 0.04525, 0.02571, 0.0053, -0.00278, -0.008, -0.01713, -0.0468
+en informática, hijo, padre, marido, madre, hermano, mujer, novio, novia, hermana, hija, 0.2143, 0.14004, 0.12776, 0.05023, 0.04413, 0.02823, 0.0137, 0.00137, -0.02985, -0.04293
+en ingeniería, hijo, padre, marido, madre, hermano, mujer, novio, novia, hermana, hija, 0.18706, 0.18154, 0.10896, 0.05453, 0.04761, 0.02881, 0.01391, 0.00344, -0.03682, -0.05187
+en secretaría, marido, hijo, padre, mujer, madre, hermano, novio, novia, hermana, hija, 0.15056, 0.106, 0.10059, 0.08966, 0.06794, 0.04776, 0.02212, 0.00629, -0.00449, -0.04431
+en ginecología, madre, marido, mujer, padre, hijo, novio, hermano, novia, hermana, hija, 0.19481, 0.14104, 0.09298, 0.09276, 0.06484, 0.01921, 0.01791, 0.00348, -0.02904, -0.06275
+en el ministerio, marido, padre, mujer, hijo, hermano, madre, novio, novia, hermana, hija, 0.11772, 0.08944, 0.08306, 0.0745, 0.07184, 0.06045, 0.0263, 0.01439, -0.02166, -0.06146
+en la guardería, hijo, madre, padre, marido, hija, hermano, novio, novia, mujer, hermana, 0.35134, 0.1042, 0.07041, 0.05512, 0.0362, 0.03226, 0.00958, -0.00556, -0.01487, -0.03953
+en peluquería, madre, marido, hijo, padre, mujer, novio, hermano, novia, hermana, hija, 0.17863, 0.16393, 0.09036, 0.0699, 0.04034, 0.02704, 0.02578, 0.01137, -0.01633, -0.04108
+en la limpieza, marido, hijo, madre, mujer, padre, hermano, novio, novia, hermana, hija, 0.1463, 0.10926, 0.10135, 0.0858, 0.08379, 0.03359, 0.01922, 0.00924, -0.01445, -0.05496
+en la sanidad, marido, padre, madre, hijo, mujer, hermano, novio, novia, hermana, hija, 0.14799, 0.14687, 0.11013, 0.08515, 0.08282, 0.03826, 0.01424, 0.00529, -0.03425, -0.06447
+en la ciencia, padre, hijo, madre, mujer, marido, hermano, novio, novia, hermana, hija, 0.16876, 0.13823, 0.06245, 0.05243, 0.04724, 0.0415, 0.00684, 0.00114, -0.03264, -0.05372
+en la fotografía, hijo, padre, madre, marido, mujer, hermano, novio, novia, hermana, hija, 0.21269, 0.18085, 0.06713, 0.05338, 0.03918, 0.03331, 0.00883, 0.00193, -0.03164, -0.04303
+en la electricidad, padre, hijo, marido, hermano, madre, mujer, novio, novia, hermana, hija, 0.16735, 0.16514, 0.0872, 0.0687, 0.04615, 0.02656, 0.0137, 0.00614, -0.03615, -0.06544
+en el clero, padre, madre, hijo, marido, hermano, mujer, novio, novia, hermana, hija, 0.20749, 0.13214, 0.09576, 0.08665, 0.05821, 0.02051, 0.00881, -0.00409, -0.03412, -0.06535
+en fontanería, marido, hijo, padre, mujer, madre, hermano, novio, novia, hermana, hija, 0.18495, 0.15063, 0.1094, 0.06324, 0.05521, 0.03326, 0.02004, 0.00283, -0.04563, -0.0607
+en mecánica, hijo, padre, marido, mujer, hermano, madre, novio, novia, hermana, hija, 0.17496, 0.16219, 0.12288, 0.05313, 0.04014, 0.0386, 0.01513, 0.0028, -0.04256, -0.04493

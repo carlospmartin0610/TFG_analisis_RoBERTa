@@ -1,0 +1,19 @@
+Input; Output1; Output2; Output3; Output4; Output5; Output6; Output7; Output8; Output9; Output10; Score1; Score2; Score3; Score4; Score5; Score6; Score7; Score8; Score9; Score10
+en medicina; madre; marido; padre; hijo; mujer; hermana; hermano; hija; novia; novio; 0.16519; 0.13691; 0.1078; 0.0847; 0.08051; 0.05431; 0.04105; 0.02957; 0.01805; 0.01437
+en enfermería; marido; hijo; madre; padre; mujer; hija; hermana; hermano; novio; novia; 0.1624; 0.16178; 0.13831; 0.09429; 0.08382; 0.0371; 0.02418; 0.02312; 0.01657; 0.01274
+en la enseñanza; padre; hijo; madre; hija; marido; mujer; hermano; hermana; novio; novia; 0.23864; 0.21861; 0.13155; 0.07084; 0.04229; 0.03165; 0.0217; 0.01733; 0.0018; 0.00016
+en informática; hijo; padre; marido; madre; mujer; hija; hermano; hermana; novio; novia; 0.21057; 0.13612; 0.1248; 0.08748; 0.06267; 0.04503; 0.04011; 0.03428; 0.0102; 0.00953
+en ingeniería; hijo; padre; marido; madre; mujer; hermano; hija; hermana; novia; novio; 0.18333; 0.17762; 0.10601; 0.09177; 0.06325; 0.0436; 0.0361; 0.0273; 0.0116; 0.01041
+en secretaría; marido; mujer; madre; hijo; padre; hermana; hermano; hija; novio; novia; 0.1476; 0.1241; 0.10519; 0.10227; 0.09667; 0.05964; 0.04375; 0.04366; 0.01862; 0.01445
+en ginecología; madre; marido; mujer; padre; hijo; hermana; hija; novio; hermano; novia; 0.23205; 0.13809; 0.12742; 0.08884; 0.06111; 0.03509; 0.02521; 0.01571; 0.0139; 0.01164
+en el ministerio; mujer; marido; madre; padre; hijo; hermano; hermana; hija; novio; novia; 0.1175; 0.11476; 0.09769; 0.08552; 0.07077; 0.06783; 0.04247; 0.02651; 0.0228; 0.02255
+en la guardería; hijo; madre; hija; padre; marido; hermano; hermana; mujer; novio; novia; 0.34761; 0.14145; 0.12417; 0.06649; 0.05217; 0.02825; 0.0246; 0.01957; 0.00608; 0.0026
+en peluquería; madre; marido; hijo; mujer; padre; hermana; hija; novio; hermano; novia; 0.21587; 0.16098; 0.08664; 0.07478; 0.06598; 0.0478; 0.04689; 0.02353; 0.02177; 0.01953
+en la limpieza; marido; madre; mujer; hijo; padre; hermana; hija; hermano; novia; novio; 0.14334; 0.13859; 0.12024; 0.10553; 0.07987; 0.04968; 0.03301; 0.02957; 0.0174; 0.01572
+en la sanidad; madre; marido; padre; mujer; hijo; hermano; hermana; hija; novia; novio; 0.14738; 0.14503; 0.14295; 0.11726; 0.08142; 0.03425; 0.02988; 0.0235; 0.01345; 0.01074
+en la ciencia; padre; hijo; madre; mujer; marido; hermano; hija; hermana; novia; novio; 0.16484; 0.1345; 0.09969; 0.08687; 0.04428; 0.03749; 0.03425; 0.03148; 0.0093; 0.00334
+en la fotografía; hijo; padre; madre; mujer; marido; hija; hermana; hermano; novia; novio; 0.20896; 0.17693; 0.10437; 0.07362; 0.05042; 0.04494; 0.03249; 0.0293; 0.01008; 0.00533
+en la electricidad; padre; hijo; marido; madre; hermano; mujer; hermana; hija; novia; novio; 0.16343; 0.16141; 0.08424; 0.0834; 0.06469; 0.061; 0.02797; 0.02252; 0.0143; 0.0102
+en el clero; padre; madre; hijo; marido; mujer; hermano; hermana; hija; novio; novia; 0.20357; 0.16939; 0.09203; 0.0837; 0.05495; 0.05419; 0.03001; 0.02262; 0.00531; 0.00407
+en fontanería; marido; hijo; padre; mujer; madre; hermano; hija; hermana; novio; novia; 0.18199; 0.1469; 0.10548; 0.09768; 0.09245; 0.02925; 0.02727; 0.0185; 0.01654; 0.01099
+en mecánica; hijo; padre; marido; mujer; madre; hija; hermano; hermana; novio; novia; 0.17123; 0.15827; 0.11992; 0.08757; 0.07584; 0.04304; 0.03613; 0.02157; 0.01162; 0.01096
