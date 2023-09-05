@@ -15,7 +15,7 @@ feliz; marido; hijo; hija; madre; mujer; padre; novio; novia; hermano; hermana; 
 peor; madre; padre; novia; novio; hermano; hijo; marido; hermana; mujer; hija; 0.05166; 0.04076; 0.03676; 0.03361; 0.0299; 0.02735; 0.02073; 0.02033; 0.01711; 0.00795
 angelical; novio; novia; hermana; madre; hijo; hermano; padre; hija; marido; mujer; 0.02151; 0.01896; 0.01465; 0.01162; 0.01131; 0.01048; 0.00813; 0.00754; 0.00518; -0.00105
 feroz; marido; novio; madre; hermano; padre; hermana; novia; mujer; hijo; hija; 0.05187; 0.03205; 0.02518; 0.02449; 0.02125; 0.01804; 0.01407; 0.01162; 0.00609; -0.00493
-angustiante; madre; marido; padre; hijo; hermano; novio; novia; mujer; hermana; hija; 0.01416; 0.01252; 0.0076; 0.00479; 0.00163; 0.00154; 0.00053; -1e-05; -0.00358; -0.00515
+angustiante; madre; marido; padre; hijo; hermano; novio; novia; mujer; hermana; hija; 0.01416; 0.01252; 0.0076; 0.00479; 0.00163; 0.00154; 0.00053;-1,00E-05; -0.00358; -0.00515
 fuerte; hijo; novio; hermano; padre; marido; hermana; novia; madre; mujer; hija; 0.01363; 0.01199; 0.01173; 0.01149; 0.01016; 0.00913; 0.00559; 0.00422; 0.00176; -0.00371
 pobre; madre; padre; marido; hermano; hermana; hijo; novio; hija; novia; mujer; 0.10906; 0.04401; 0.03217; 0.02054; 0.0174; 0.01517; 0.00664; 0.00651; 0.00632; 0.00439
 fundamental; padre; madre; hijo; hermano; marido; novio; mujer; novia; hermana; hija; 0.03063; 0.02462; 0.01706; 0.00685; 0.00253; 0.00059; -0.0005; -0.00069; -0.00252; -0.00444
